@@ -1,0 +1,12 @@
+name = "Pack de Teste"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "36bb28504099ceed6c6dccb04f1d5c7961b5b20c3e25b2db7d6f1ff1563bc88d"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.1"
