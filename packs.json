@@ -1,4 +1,17 @@
 {
   "formatVersion": 1,
-  "packs": []
+  "packs": [
+    {
+      "id": "pack-de-teste",
+      "name": "Pack de Teste",
+      "description": "Pack de teste do Ametista",
+      "version": "1.0.0",
+      "minecraft": "1.21.1",
+      "loader": {
+        "kind": "fabric",
+        "version": "0.20.1"
+      },
+      "packUrl": "https://raw.githubusercontent.com/LuizFps120hz/ametista-packs/55af8683c00c2c4e0f4305242064922f8f49b40e/packs/pack-de-teste/pack.toml"
+    }
+  ]
 }
