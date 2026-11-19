@@ -2,6 +2,18 @@
   "formatVersion": 1,
   "packs": [
     {
+      "id": "abuh",
+      "name": "abuh",
+      "description": "",
+      "version": "1.0.0",
+      "minecraft": "1.20.1",
+      "loader": {
+        "kind": "forge",
+        "version": "47.4.28"
+      },
+      "packUrl": "https://raw.githubusercontent.com/LuizFps120hz/ametista-packs/c69eff3ed37a0f13d6019a4181237764855c4d3b/packs/abuh/pack.toml"
+    },
+    {
       "id": "fabulously-optimized",
       "name": "Fabulously Optimized",
       "description": "",
