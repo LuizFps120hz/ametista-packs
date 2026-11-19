@@ -1,0 +1,8 @@
+name = "aquamirae-forge-1.20.1-7.1.14"
+filename = "aquamirae-forge-1.20.1-7.1.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k23mNPhZ/versions/rRfT3ynS/aquamirae-forge-1.20.1-7.1.14.jar"
+hash-format = "sha1"
+hash = "5b84a5387300910aef9c07c33308ce33110be515"

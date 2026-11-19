@@ -1,0 +1,8 @@
+name = "jei-1.20.1-forge-15.74.0.234"
+filename = "jei-1.20.1-forge-15.74.0.234.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/6E4ps2ER/jei-1.20.1-forge-15.74.0.234.jar"
+hash-format = "sha1"
+hash = "1ae408badfe8b57417f465a06fc4d03215dba993"

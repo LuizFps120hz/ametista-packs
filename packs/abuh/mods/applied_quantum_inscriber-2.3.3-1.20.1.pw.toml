@@ -1,0 +1,8 @@
+name = "applied_quantum_inscriber-2.3.3-1.20.1"
+filename = "applied_quantum_inscriber-2.3.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tiQVyZMF/versions/FSB4hNjM/applied_quantum_inscriber-2.3.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "4c46b391976e70975bffa7857037d2272fc6136e"

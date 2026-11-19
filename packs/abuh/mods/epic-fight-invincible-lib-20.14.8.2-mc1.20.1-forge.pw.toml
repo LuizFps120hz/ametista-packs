@@ -1,0 +1,8 @@
+name = "epic-fight-invincible-lib-20.14.8.2-mc1.20.1-forge"
+filename = "epic-fight-invincible-lib-20.14.8.2-mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cdaWrTra/versions/dDWp05UU/epic-fight-invincible-lib-20.14.8.2-mc1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "1a8ba86606705c2c2ea4ca6bfd9f9add177cd7cd"

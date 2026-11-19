@@ -1,0 +1,8 @@
+name = "e4mc-forge-6.2.3"
+filename = "e4mc-forge-6.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/VYizGDdc/e4mc-forge-6.2.3.jar"
+hash-format = "sha1"
+hash = "64beea3eefd083e7b2b90e8c295cdd2071a40e84"

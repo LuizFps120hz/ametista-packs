@@ -1,0 +1,8 @@
+name = "mekanismtweaks-1.20.1-1.2.1"
+filename = "mekanismtweaks-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZQaUJHDe/versions/gIxi4YFB/mekanismtweaks-1.20.1-1.2.1.jar"
+hash-format = "sha1"
+hash = "2b7b5732ca897edf2a20ac0d658b41e8967e0bd9"

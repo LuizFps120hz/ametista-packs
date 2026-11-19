@@ -1,0 +1,8 @@
+name = "MysticalAgriculture-1.20.1-7.0.24"
+filename = "MysticalAgriculture-1.20.1-7.0.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C95ReXie/versions/EEilTecF/MysticalAgriculture-1.20.1-7.0.24.jar"
+hash-format = "sha1"
+hash = "e8839d207456a47ed6a576469901a087319b505f"
