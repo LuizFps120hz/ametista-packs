@@ -1,0 +1,8 @@
+name = "puzzle-fabric-2.3.0+1.21.11"
+filename = "puzzle-fabric-2.3.0+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3IuO68q1/versions/Y9KybGCk/puzzle-fabric-2.3.0%2B1.21.11.jar"
+hash-format = "sha1"
+hash = "38ac343fa4d93c405549c355b1d39b536978ed64"

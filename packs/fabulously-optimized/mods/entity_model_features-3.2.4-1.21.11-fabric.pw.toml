@@ -1,0 +1,8 @@
+name = "entity_model_features-3.2.4-1.21.11-fabric"
+filename = "entity_model_features-3.2.4-1.21.11-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/CWZPvNbk/entity_model_features-3.2.4-1.21.11-fabric.jar"
+hash-format = "sha1"
+hash = "fb87711a8252c4b54908c589e3c13b00a767808e"

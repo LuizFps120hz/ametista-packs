@@ -1,0 +1,8 @@
+name = "animatica-0.6.1+1.21.5"
+filename = "animatica-0.6.1+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PRN43VSY/versions/CVlwSVpU/animatica-0.6.1%2B1.21.5.jar"
+hash-format = "sha1"
+hash = "48746e8fbf005ffd4b7018cf37339a312865c57b"

@@ -1,0 +1,8 @@
+name = "optigui-2.3.0-beta.10+1.21.9"
+filename = "optigui-2.3.0-beta.10+1.21.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JuksLGBQ/versions/QM4pzEcr/optigui-2.3.0-beta.10%2B1.21.9.jar"
+hash-format = "sha1"
+hash = "1e209418863e8fda53508e33a3251a59b1db7220"

@@ -1,0 +1,8 @@
+name = "Solas Shader V3.7b.zip"
+filename = "Solas Shader V3.7b.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EpQFjzrQ/versions/KcfQaN5J/Solas%20Shader%20V3.7b.zip"
+hash-format = "sha1"
+hash = "abf2e33feae040cc91894aea11e6d30750d50ee9"

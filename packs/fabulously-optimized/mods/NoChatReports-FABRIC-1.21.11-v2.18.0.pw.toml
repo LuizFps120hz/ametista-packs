@@ -1,0 +1,8 @@
+name = "NoChatReports-FABRIC-1.21.11-v2.18.0"
+filename = "NoChatReports-FABRIC-1.21.11-v2.18.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/rhykGstm/NoChatReports-FABRIC-1.21.11-v2.18.0.jar"
+hash-format = "sha1"
+hash = "4e519507bdd81ce2520da33f497a5f12469f5b10"

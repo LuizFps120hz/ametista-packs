@@ -1,0 +1,8 @@
+name = "SodiumTranslations.zip"
+filename = "SodiumTranslations.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yfDziwn1/versions/3nrLzWin/SodiumTranslations.zip"
+hash-format = "sha1"
+hash = "e15c233ef311981c8e58a852eaa09d72b23d3fc9"

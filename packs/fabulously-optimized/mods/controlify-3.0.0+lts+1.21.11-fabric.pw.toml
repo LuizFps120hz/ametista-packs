@@ -1,0 +1,8 @@
+name = "controlify-3.0.0+lts+1.21.11-fabric"
+filename = "controlify-3.0.0+lts+1.21.11-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/mdsY2QPE/controlify-3.0.0%2Blts%2B1.21.11-fabric.jar"
+hash-format = "sha1"
+hash = "a254efc3e09f1fc05c7f5763904dec88fa04b7d6"

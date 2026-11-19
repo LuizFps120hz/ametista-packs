@@ -1,0 +1,8 @@
+name = "jei-1.21.11-fabric-27.37.0.96"
+filename = "jei-1.21.11-fabric-27.37.0.96.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/vXpedWX9/jei-1.21.11-fabric-27.37.0.96.jar"
+hash-format = "sha1"
+hash = "a9f3965fbe60ad542b226273f723e85f9de10207"

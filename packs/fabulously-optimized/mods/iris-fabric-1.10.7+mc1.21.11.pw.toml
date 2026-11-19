@@ -1,0 +1,8 @@
+name = "iris-fabric-1.10.7+mc1.21.11"
+filename = "iris-fabric-1.10.7+mc1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar"
+hash-format = "sha1"
+hash = "aae8567bd9ea397d50aff1d0b680a82ffe67040c"

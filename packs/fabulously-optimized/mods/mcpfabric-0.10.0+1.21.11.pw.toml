@@ -1,0 +1,8 @@
+name = "mcpfabric-0.10.0+1.21.11"
+filename = "mcpfabric-0.10.0+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eA63YgUh/versions/L0FJp06f/mcpfabric-0.10.0%2B1.21.11.jar"
+hash-format = "sha1"
+hash = "0e324073e51a0f46eefddf6e28dbb03d9ae756d4"

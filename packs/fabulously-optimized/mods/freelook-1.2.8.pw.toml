@@ -1,0 +1,8 @@
+name = "freelook-1.2.8"
+filename = "freelook-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g4pR0Fmy/versions/elzgeThs/freelook-1.2.8.jar"
+hash-format = "sha1"
+hash = "5f2352446c497c371834fdbea8f39d8dff229625"
