@@ -1,8 +1,0 @@
-name = "MysticalAgradditions-1.20.1-7.0.12"
-filename = "MysticalAgradditions-1.20.1-7.0.12.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/pl0jGXIx/versions/48qKWNA7/MysticalAgradditions-1.20.1-7.0.12.jar"
-hash-format = "sha1"
-hash = "b4fcc78796a6e1f637523298cf7b3fe7f1dd3ed9"

@@ -1,8 +1,0 @@
-name = "gtbcs_spell_lib-2.2.0-1.20.1"
-filename = "gtbcs_spell_lib-2.2.0-1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/wXoQ9BqX/versions/wacolmKQ/gtbcs_spell_lib-2.2.0-1.20.1.jar"
-hash-format = "sha1"
-hash = "753917963574a7087fa10999b7646e2efe5772b2"

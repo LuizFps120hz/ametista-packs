@@ -1,8 +1,0 @@
-name = "supermartijn642corelib-1.1.26a-forge-mc1.20.1"
-filename = "supermartijn642corelib-1.1.26a-forge-mc1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/rOUBggPv/versions/gpZw1vK8/supermartijn642corelib-1.1.26a-forge-mc1.20.1.jar"
-hash-format = "sha1"
-hash = "60137bb03fe7dec06dad5ad88d729e993c619df4"

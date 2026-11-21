@@ -1,8 +1,0 @@
-name = "rftoolspower-1.20-6.0.3"
-filename = "rftoolspower-1.20-6.0.3.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/YWbLuPa1/versions/CIKWSCOD/rftoolspower-1.20-6.0.3.jar"
-hash-format = "sha1"
-hash = "2765d97a2786a657af396aadff7d70e1883a5b23"

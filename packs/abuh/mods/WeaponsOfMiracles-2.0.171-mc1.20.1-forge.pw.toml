@@ -1,8 +1,0 @@
-name = "WeaponsOfMiracles-2.0.171-mc1.20.1-forge"
-filename = "WeaponsOfMiracles-2.0.171-mc1.20.1-forge.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/oWx9p4ug/versions/nf0AyjKh/WeaponsOfMiracles-2.0.171-mc1.20.1-forge.jar"
-hash-format = "sha1"
-hash = "25eaf24b3062a4491565936a5588cb22223a9ffe"

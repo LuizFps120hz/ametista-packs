@@ -1,8 +1,0 @@
-name = "epic-fight-20.15.2-mc1.20.1-forge"
-filename = "epic-fight-20.15.2-mc1.20.1-forge.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/HzEXjhNn/epic-fight-20.15.2-mc1.20.1-forge.jar"
-hash-format = "sha1"
-hash = "632b46ff588f8fff240bf67e3252c4ea81fac5f4"

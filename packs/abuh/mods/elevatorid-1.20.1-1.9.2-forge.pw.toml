@@ -1,8 +1,0 @@
-name = "elevatorid-1.20.1-1.9.2-forge"
-filename = "elevatorid-1.20.1-1.9.2-forge.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/hi2dSXTu/versions/4cGzS2MW/elevatorid-1.20.1-1.9.2-forge.jar"
-hash-format = "sha1"
-hash = "5d7a852c1cd78ad1559c64137ac067961ebfa711"

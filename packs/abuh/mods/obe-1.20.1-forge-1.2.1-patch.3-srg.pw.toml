@@ -1,8 +1,0 @@
-name = "obe-1.20.1-forge-1.2.1-patch.3-srg"
-filename = "obe-1.20.1-forge-1.2.1-patch.3-srg.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/AtOSAunf/versions/GaDC0iZn/obe%2B1.20.1-forge-1.2.1-patch.3-srg.jar"
-hash-format = "sha1"
-hash = "6d5c646838674166a85445c5375ea66af0dc95a5"
