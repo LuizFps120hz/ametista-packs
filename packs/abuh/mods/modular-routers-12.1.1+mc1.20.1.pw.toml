@@ -1,0 +1,8 @@
+name = "modular-routers-12.1.1+mc1.20.1"
+filename = "modular-routers-12.1.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EuTS81Z3/versions/3QDNtJUd/modular-routers-12.1.1%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "037b801a55ca30952b98c427a77ac206cb1248c3"

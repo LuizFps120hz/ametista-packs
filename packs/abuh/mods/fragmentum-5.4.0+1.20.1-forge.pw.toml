@@ -1,0 +1,8 @@
+name = "fragmentum-5.4.0+1.20.1-forge"
+filename = "fragmentum-5.4.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/49C5QgTK/versions/T7QOSm4k/fragmentum-5.4.0%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "3d01f31aa7caf604d275a029a8dfb11be5993427"

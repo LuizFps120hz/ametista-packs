@@ -1,0 +1,8 @@
+name = "tombstone-1.20.1-9.1.5"
+filename = "tombstone-1.20.1-9.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YT5K34AB/versions/nTAliy2r/tombstone-1.20.1-9.1.5.jar"
+hash-format = "sha1"
+hash = "0d9cb76b6162c672a7aca40771e5749a97ebb451"

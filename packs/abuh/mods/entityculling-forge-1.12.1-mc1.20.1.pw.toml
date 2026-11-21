@@ -1,0 +1,8 @@
+name = "entityculling-forge-1.12.1-mc1.20.1"
+filename = "entityculling-forge-1.12.1-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/Udu5Sovd/entityculling-forge-1.12.1-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "571a91dc42a266a70e44b6b459f996a0f7876c29"

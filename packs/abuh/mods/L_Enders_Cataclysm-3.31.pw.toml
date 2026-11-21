@@ -1,0 +1,8 @@
+name = "L_Enders_Cataclysm-3.31"
+filename = "L_Enders_Cataclysm-3.31.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/46KJle7n/versions/C3H0azzB/L_Enders_Cataclysm-3.31.jar"
+hash-format = "sha1"
+hash = "4f1165cb39521292e826b471b4808bb89f0f4f3f"

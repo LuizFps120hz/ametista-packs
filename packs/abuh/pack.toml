@@ -1,0 +1,12 @@
+name = "abuh"
+version = "1.5.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "edeed477e89053c51c85146fb084a5f895fdc2c7995b4922705495457d31c201"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"

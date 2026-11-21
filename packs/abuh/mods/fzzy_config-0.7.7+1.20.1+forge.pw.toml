@@ -1,0 +1,8 @@
+name = "fzzy_config-0.7.7+1.20.1+forge"
+filename = "fzzy_config-0.7.7+1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hYykXjDp/versions/53kg5uoF/fzzy_config-0.7.7%2B1.20.1%2Bforge.jar"
+hash-format = "sha1"
+hash = "1a4f550dea4fb6316a96591dc46a463ee1f6602b"
