@@ -12,18 +12,6 @@
         "version": "47.4.28"
       },
       "packUrl": "https://raw.githubusercontent.com/LuizFps120hz/ametista-packs/7659f43bf3b64400b4cc04e279c0a08039c91023/packs/abuh/pack.toml"
-    },
-    {
-      "id": "fabulously-optimized",
-      "name": "Fabulously Optimized",
-      "description": "",
-      "version": "1.0.0",
-      "minecraft": "1.21.11",
-      "loader": {
-        "kind": "fabric",
-        "version": "0.19.5"
-      },
-      "packUrl": "https://raw.githubusercontent.com/LuizFps120hz/ametista-packs/6ecc6901cbbe42a10c425a97fec00cd95242e4f2/packs/fabulously-optimized/pack.toml"
     }
   ]
 }

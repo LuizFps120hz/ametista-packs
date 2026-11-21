@@ -1,8 +1,0 @@
-name = "modmenu-17.0.0"
-filename = "modmenu-17.0.0.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/Tyk71iSw/modmenu-17.0.0.jar"
-hash-format = "sha1"
-hash = "544a8b340ac3918d85bcc7d02eaff5372814354b"

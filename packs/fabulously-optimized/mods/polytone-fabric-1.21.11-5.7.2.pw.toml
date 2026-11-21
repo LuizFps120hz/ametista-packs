@@ -1,8 +1,0 @@
-name = "polytone-fabric-1.21.11-5.7.2"
-filename = "polytone-fabric-1.21.11-5.7.2.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/TjXRfnHS/polytone-fabric-1.21.11-5.7.2.jar"
-hash-format = "sha1"
-hash = "42a34d27506fd41729a34b2d1b67b89d6cce80b5"

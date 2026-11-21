@@ -1,8 +1,0 @@
-name = "yet_another_config_lib_v3-3.8.2+1.21.11-fabric"
-filename = "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar"
-hash-format = "sha1"
-hash = "f99cda70903f16dd6927a276150b2762b4d5ab66"

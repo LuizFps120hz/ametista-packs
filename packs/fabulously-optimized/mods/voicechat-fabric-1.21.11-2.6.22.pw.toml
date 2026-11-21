@@ -1,8 +1,0 @@
-name = "voicechat-fabric-1.21.11-2.6.22"
-filename = "voicechat-fabric-1.21.11-2.6.22.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/CN53keBo/voicechat-fabric-1.21.11-2.6.22.jar"
-hash-format = "sha1"
-hash = "d607bc579bb5e0488a539ed87e62e91f10d38376"

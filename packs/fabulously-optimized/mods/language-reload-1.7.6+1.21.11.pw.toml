@@ -1,8 +1,0 @@
-name = "language-reload-1.7.6+1.21.11"
-filename = "language-reload-1.7.6+1.21.11.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/YhcaQg5e/language-reload-1.7.6%2B1.21.11.jar"
-hash-format = "sha1"
-hash = "c11f4602348b2895a6c6c6649e3d7311e76bdc8d"

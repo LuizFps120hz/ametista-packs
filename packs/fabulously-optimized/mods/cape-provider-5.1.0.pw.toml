@@ -1,8 +1,0 @@
-name = "cape-provider-5.1.0"
-filename = "cape-provider-5.1.0.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/orXAsira/versions/6bSwsL3J/cape-provider-5.1.0.jar"
-hash-format = "sha1"
-hash = "cb8058071cabdc717a58fad809b00ac27f88cd7f"

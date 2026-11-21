@@ -1,8 +1,0 @@
-name = "reeses-sodium-options-fabric-2.0.3+mc1.21.11"
-filename = "reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/yIgAFMna/reeses-sodium-options-fabric-2.0.3%2Bmc1.21.11.jar"
-hash-format = "sha1"
-hash = "fb452b122fd72e8540d32fbe3df01cc34a45ce41"

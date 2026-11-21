@@ -1,8 +1,0 @@
-name = "paginatedadvancements-2.8.0+1.21.11"
-filename = "paginatedadvancements-2.8.0+1.21.11.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/pJogNFap/versions/wXMkMWnp/paginatedadvancements-2.8.0%2B1.21.11.jar"
-hash-format = "sha1"
-hash = "ac6c5721f567e679f3406b12c96c15a1341cb586"

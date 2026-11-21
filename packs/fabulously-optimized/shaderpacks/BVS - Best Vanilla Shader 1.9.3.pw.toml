@@ -1,8 +1,0 @@
-name = "BVS - Best Vanilla Shader 1.9.3.zip"
-filename = "BVS - Best Vanilla Shader 1.9.3.zip"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/chKtnjkM/versions/1NSEqI17/BVS%20-%20Best%20Vanilla%20Shader%201.9.3.zip"
-hash-format = "sha1"
-hash = "5d5c866f3acb73d3edbf9c0cca4c33fde8da251b"
