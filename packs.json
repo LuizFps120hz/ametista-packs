@@ -5,13 +5,13 @@
       "id": "abuh",
       "name": "abuh",
       "description": "",
-      "version": "1.5.0",
+      "version": "1.6.5",
       "minecraft": "1.20.1",
       "loader": {
         "kind": "forge",
         "version": "47.4.28"
       },
-      "packUrl": "https://raw.githubusercontent.com/LuizFps120hz/ametista-packs/7659f43bf3b64400b4cc04e279c0a08039c91023/packs/abuh/pack.toml"
+      "packUrl": "https://raw.githubusercontent.com/LuizFps120hz/ametista-packs/613db5b2bc7214d3f8c51d969a78fdaf9ac3641d/packs/abuh/pack.toml"
     }
   ]
 }
