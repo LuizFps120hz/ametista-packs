@@ -1,11 +1,11 @@
 name = "abuh"
-version = "1.5.0"
+version = "1.6.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "edeed477e89053c51c85146fb084a5f895fdc2c7995b4922705495457d31c201"
+hash = "b3ada4258e8717958ba022cce77f608ceff7eef9ffc97e4a9cd394097225fd30"
 
 [versions]
 forge = "47.4.28"

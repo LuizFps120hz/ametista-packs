@@ -1,6 +1,102 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/abuh/botao_discord.png"
+hash = "1d1060d268522b0c7f5e3e2e442ff30edd67f093e7483defbdf5d2dc432bcc52"
+
+[[files]]
+file = "config/fancymenu/assets/abuh/botao_discord_hover.png"
+hash = "455be5e481a9685ea57742219c48ec11a74574cf9892c7f8c545dac1825517c2"
+
+[[files]]
+file = "config/fancymenu/assets/abuh/botao_entrar.png"
+hash = "cea809369d8b357b9700ef5702d11b971d8b8d2debbeee440c8b7299b3e355e7"
+
+[[files]]
+file = "config/fancymenu/assets/abuh/botao_entrar_hover.png"
+hash = "5411d6e92476b1884021c4b918d222636a87a3b9e819d9be77f1abd3dbacda6b"
+
+[[files]]
+file = "config/fancymenu/assets/abuh/botao_meio.png"
+hash = "1c10c75f9c2ef20d5e57c4080c9572d4c07fec5f6bd0ebd740a4c7ecdab07023"
+
+[[files]]
+file = "config/fancymenu/assets/abuh/botao_meio_hover.png"
+hash = "045012fc482902cc5115731b58576587d8304502efbf8aa7ea556e45f9ae5060"
+
+[[files]]
+file = "config/fancymenu/assets/abuh/fundo.png"
+hash = "1459ba2a98e274e72ad7de7693f83519a4d2fb3525f8616b1df68901b0fdc5bc"
+
+[[files]]
+file = "config/fancymenu/assets/abuh/logo.png"
+hash = "dd46227859a865bc463b74da8bea0c4658933a0feaeebdc50238b5fbb1380364"
+
+[[files]]
+file = "config/fancymenu/assets/abuh/menu_abuh.ogg"
+hash = "441b3cfa7aad53ea3f5c46fa131c478ef48164ee25dcfc889703e4b386bf2270"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/abuh_menu.txt"
+hash = "48165c2a6a526ba1f178fac9015b07f0135e205474c875b4f0763be5f1de34d5"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "7cd62fc6ab8ada5c76afee69eb23e9ef02d7cd085453952cf26fddbe24c58e94"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "mods/AdvancedAE-1.3.6-1.20.1.pw.toml"
 hash = "54261a48dd848d3bb6d8802561eebcc61cbe2d90e118d261ad03d7eabe8eb596"
 metafile = true
@@ -492,6 +588,11 @@ hash = "d46a00de7d7d0ab1580532eddbc080205770b1a08056b545a03ae3b9248b0d74"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu_forge_3.10.0_MC_1.20.1.pw.toml"
+hash = "4f2d6ff1529e48e7f6b362f12d97296553948f5b78439fa033ebb5ea0caddd86"
+metafile = true
+
+[[files]]
 file = "mods/fastboot-1.20.x-1.2.jar"
 hash = "66c44b0648a3e3d4115c37593208b85668a97ce012355bad3d33f3cd8142a11f"
 
@@ -540,6 +641,11 @@ file = "mods/ftb-ultimine-forge-2001.1.8.jar"
 hash = "b80dde55b2c91fd27f09f15ed2aefb0756c7bd704316e488ae8a06b179e85730"
 
 [[files]]
+file = "mods/functionalstorage-1.20.1-1.2.14.pw.toml"
+hash = "f6cefdebc12781f76285161719441abd3e60e86c926e8a5bb2955a34305949b9"
+metafile = true
+
+[[files]]
 file = "mods/fzzy_config-0.7.7+1.20.1+forge.pw.toml"
 hash = "85f3c7fb906ec62c1e096208e1cc73dec3af7f41f86049dabe1e441d8a260151"
 metafile = true
@@ -565,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/infiniteae2-1.20.1-forge-0.1.0.jar"
-hash = "54d4e0cb3674140dfa3f63e05084244cd55b1165ddd266ba6b9bb0bcec47e62e"
+hash = "50e703354792f6d33869aa334f9f3785e60486072037431a6dc0d86f34647ab1"
 
 [[files]]
 file = "mods/ironfurnaces-1.20.1-4.1.8.pw.toml"
@@ -585,6 +691,11 @@ metafile = true
 [[files]]
 file = "mods/jei-1.20.1-forge-15.74.0.234.pw.toml"
 hash = "04c95906dc87fa0a053c8479974d7eba320a1845e2969f2c0a84f2c0c61c66ac"
+metafile = true
+
+[[files]]
+file = "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.pw.toml"
+hash = "e2e1daa96d8ecffdbb804c80a52bc4ce9c28e882646424b5f88d823c147ea3b5"
 metafile = true
 
 [[files]]
@@ -609,6 +720,11 @@ hash = "c43d62c89588f26af9dd74be7ccb05bb2c48fdf76dfd198eb80a2ded5939da2c"
 [[files]]
 file = "mods/mekanismtweaks-1.20.1-1.2.1.pw.toml"
 hash = "541c2fa929d4f9a5e66f583b71db9f53743e21957d3de8eaa1e4c3d4289b2837"
+metafile = true
+
+[[files]]
+file = "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.pw.toml"
+hash = "e8d44e584ec2e3f2df0fba0001937088fc8f69019f2bc20b7b1f84a19c8cdafa"
 metafile = true
 
 [[files]]
@@ -651,6 +767,11 @@ hash = "06f1354664aee53d4c32c83f76ed94bb72426a75b7e0eb8e415abfba3634cf4e"
 [[files]]
 file = "mods/obe-1.20.1-forge-1.2.1-patch.3-srg.pw.toml"
 hash = "d47223086cebc03eb92a5b6cd45f4adaea401fac5b31752b54ddab97833e284a"
+metafile = true
+
+[[files]]
+file = "mods/ok_zoomer-forge-5.4.0-beta.9.pw.toml"
+hash = "8840b24025fdc9b23fb1132b66baad51fdc084da7437dad38c472d49562dbc51"
 metafile = true
 
 [[files]]
@@ -807,6 +928,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia_core-forge-1.20.1-1.1.2.pw.toml"
 hash = "ec41ad67d451d747f79ee6058c7a76e9dbaf22ecfe971d65a64cc406c3b1e6dc"
+metafile = true
+
+[[files]]
+file = "mods/waystones-forge-1.20.1-14.1.21.pw.toml"
+hash = "6882fcdf68e6a791e9cc9bc215787164aef2800f73195d870161ab0edd0ea318"
 metafile = true
 
 [[files]]

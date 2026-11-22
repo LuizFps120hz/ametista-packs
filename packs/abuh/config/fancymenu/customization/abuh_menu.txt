@@ -1,0 +1,228 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = title_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 0
+  is_enabled = true
+  widget_identifier_revision = 2
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+}
+
+menu_background {
+  instance_identifier = abuh_fundo
+  background_type = image
+  show_background = true
+  image_path = [source:local]/config/fancymenu/assets/abuh/fundo.png
+  slide = false
+  repeat_texture = false
+  parallax = true
+  parallax_intensity_x = 0.02
+  parallax_intensity_y = 0.02
+  invert_parallax = false
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = true
+}
+
+element {
+  element_type = image
+  instance_identifier = abuh_logo
+  source = [source:local]/config/fancymenu/assets/abuh/logo.png
+  anchor_point = mid-left
+  x = 32
+  y = -100
+  width = 196
+  height = 72
+  auto_sizing = false
+  sticky_anchor = false
+  stay_on_screen = false
+}
+
+element {
+  element_type = text_v2
+  instance_identifier = abuh_frase
+  source = Do começo da jornada à ascensão
+  source_mode = direct
+  interactable = false
+  text_shadow = true
+  base_color = #D6B2DE
+  text_border = 0
+  enable_scrolling = false
+  player_scrolling = false
+  anchor_point = mid-left
+  x = 36
+  y = -25
+  width = 196
+  height = 22
+  auto_sizing = false
+  sticky_anchor = false
+  stay_on_screen = false
+}
+
+element {
+  element_type = custom_button
+  instance_identifier = abuh_entrar
+  label = Entrar no servidor
+  label_base_color = #FFF4D6
+  backgroundnormal = [source:local]/config/fancymenu/assets/abuh/botao_entrar.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/abuh/botao_entrar_hover.png
+  nine_slice_custom_background = false
+  anchor_point = mid-left
+  x = 36
+  y = -2
+  width = 184
+  height = 34
+  auto_sizing = false
+  sticky_anchor = false
+  stay_on_screen = false
+  button_element_executable_block_identifier = bloco_entrar
+  [executable_block:bloco_entrar][type:generic] = [executables:acao_entrar;]
+  [executable_action_instance:acao_entrar][action_type:joinserver] = play.baianogames.com:25567
+}
+
+element {
+  element_type = custom_button
+  instance_identifier = abuh_discord
+  label = Discord
+  backgroundnormal = [source:local]/config/fancymenu/assets/abuh/botao_discord.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/abuh/botao_discord_hover.png
+  nine_slice_custom_background = false
+  anchor_point = mid-left
+  x = 36
+  y = 38
+  width = 184
+  height = 22
+  auto_sizing = false
+  sticky_anchor = false
+  stay_on_screen = false
+  button_element_executable_block_identifier = bloco_discord
+  [executable_block:bloco_discord][type:generic] = [executables:acao_discord;]
+  [executable_action_instance:acao_discord][action_type:openlink] = https://discord.gg/ugZXfXZutt
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_options_button
+  is_hidden = false
+  label = Opções
+  backgroundnormal = [source:local]/config/fancymenu/assets/abuh/botao_meio.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/abuh/botao_meio_hover.png
+  nine_slice_custom_background = false
+  anchor_point = mid-left
+  x = 36
+  y = 64
+  width = 90
+  height = 22
+  auto_sizing = false
+  sticky_anchor = false
+  stay_on_screen = false
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_quit_button
+  is_hidden = false
+  label = Sair
+  backgroundnormal = [source:local]/config/fancymenu/assets/abuh/botao_meio.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/abuh/botao_meio_hover.png
+  nine_slice_custom_background = false
+  anchor_point = mid-left
+  x = 130
+  y = 64
+  width = 90
+  height = 22
+  auto_sizing = false
+  sticky_anchor = false
+  stay_on_screen = false
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_singleplayer_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_multiplayer_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_realms_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = titlescreen_mods_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_language_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_accessibility_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = minecraft_logo_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = minecraft_splash_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = minecraft_realms_notification_icons_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = minecraft_branding_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = 376322
+  is_hidden = true
+}
+
+element {
+  element_type = text_v2
+  instance_identifier = abuh_versao
+  source = abuh 1.20.1
+  source_mode = direct
+  interactable = false
+  base_color = #967E9E
+  text_border = 0
+  anchor_point = bottom-left
+  x = 1
+  y = -16
+  width = 160
+  height = 24
+  auto_sizing = false
+  sticky_anchor = false
+  stay_on_screen = false
+}
+
