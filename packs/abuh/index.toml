@@ -317,6 +317,14 @@ hash = "848b1a982e168da3ca7bb7820095739c42179f063e31c87a36bfda95020d2c91"
 metafile = true
 
 [[files]]
+file = "mods/XyCraft Core-0.6.22.jar"
+hash = "24fc58f7c3552b69521af5abe61161a1aecbf3b12d8820239b5547bef3aefe3a"
+
+[[files]]
+file = "mods/XyCraft World-0.6.22.jar"
+hash = "ab6745685159881397bba472bd2521b98d822749b66066597da2e00f8fb7af3d"
+
+[[files]]
 file = "mods/YungsApi-1.20-Forge-4.0.6.pw.toml"
 hash = "1237934c00386c23616cda098d28cd29e2d2b1da21013bcf8e06de5ca2372b41"
 metafile = true
@@ -358,10 +366,6 @@ metafile = true
 [[files]]
 file = "mods/alltheleaks-1.1.5-1.20.1-forge.jar"
 hash = "8c9a30ac9f4df04fb5067010ef88d7d92e3b510c183080390c4b3c6d8958c0c2"
-
-[[files]]
-file = "mods/apothic_infnite-2000.000007-all.jar"
-hash = "d329ad68aed620e714167372b0f6292f643f6ae5cbc65fcba493c4c61092a9ad"
 
 [[files]]
 file = "mods/applied_quantum_inscriber-2.3.3-1.20.1.pw.toml"
