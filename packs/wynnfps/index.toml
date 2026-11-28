@@ -1,0 +1,116 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/Too Many Entities 1.21.9 Fabric v1.2.4.pw.toml"
+hash = "79dbbd1a205fe185d884e09f3eac9733dbb9fcee2d5b4ede831d3d79eec5e79a"
+metafile = true
+
+[[files]]
+file = "mods/WynnBuild-3.1.5+1.21.11.pw.toml"
+hash = "45003b7f17ca69e8e1762f8324adfeac6f654242b22628c59ae9c21e17597c23"
+metafile = true
+
+[[files]]
+file = "mods/WynnDialogueSkip-1.21.11+1.0.3.pw.toml"
+hash = "7b2582d63b8401d8fa20385934b51c6652fd891fd997909cbf0dfe9a07166156"
+metafile = true
+
+[[files]]
+file = "mods/architectury-19.0.1-fabric.pw.toml"
+hash = "c0289f68b3b903f0007c40790f7d1692001cbcbb402d9bfa93164538bb100773"
+metafile = true
+
+[[files]]
+file = "mods/bbe-fabric-1.3.4+mc1.21.11.pw.toml"
+hash = "7d4833a02c3501da36f191bba6a2d366126777530babae15cff1d35bd6f78500"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-21.11.153-fabric.pw.toml"
+hash = "c1754fd74dd51018ad843a2fb0c692babdfc01a9dbf46ebdef4767491a310280"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api-0.141.6+1.21.11.pw.toml"
+hash = "0fdf18b11a79c46df732f185dbed9bd5307779bb3fb530e4cbe15366e6c295f9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.pw.toml"
+hash = "663b220ebb7b85a36c95f4d6fa5f6c4430ed141eaeab3e461e818a12df99ad6e"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-8.2.0-fabric.pw.toml"
+hash = "3da9ea430230e6722f63ce721f866aeffec27dfc86a0ce0a78d5255a7485c479"
+metafile = true
+
+[[files]]
+file = "mods/fzzy_config-0.7.7+1.21.11.pw.toml"
+hash = "4e27889ea58d6b738e886e5140a6deb2993a3f868bfdd991b759904aa7ac6d7a"
+metafile = true
+
+[[files]]
+file = "mods/lithium-fabric-0.21.4+mc1.21.11.pw.toml"
+hash = "4daae5aa0f384e3f2d67bd6a3ff3b5d4cdb4eaff995bb79624dd747d0618f078"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-5.26.3-build.2.pw.toml"
+hash = "d1678e903525f3a9033674cc58dc4184c3a61739c9496e44026fc8c44128d221"
+metafile = true
+
+[[files]]
+file = "mods/modmenu-17.0.1.pw.toml"
+hash = "cd58d8da142c5dfe026a5d10dadf4977e72bd632d1d80e95eaa2c89d6b4e2857"
+metafile = true
+
+[[files]]
+file = "mods/particle_core-0.3.2+1.21.11.pw.toml"
+hash = "c6eeac300a6e4077d907f5790f2c07477eef84d9ca00cac340364506e7fe7cee"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api-2.8.2+1.21.10.pw.toml"
+hash = "4783b28dc20ec95890113061143125b477095e8a2593ad7584e2b1b259bc4eb5"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options-fabric-2.2.6-beta.1+mc1.21.11.pw.toml"
+hash = "245a6f8d6165c2c4ed1dee895d5f55ea88297fa8fd50942832a0566fa614ef24"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra-fabric-0.9.6-beta.1+mc1.21.11.pw.toml"
+hash = "548be0b15cd4f3c8c6ba219e36bcb78978765733866950ce49542ca007cf8a4e"
+metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-0.8.15-beta.1+mc1.21.11.pw.toml"
+hash = "ecc0c5040d0221ef65c28e3e154b2b36d18d5bb7f2f6cd92e698c765ae143162"
+metafile = true
+
+[[files]]
+file = "mods/wynnchanger-0.5.1.pw.toml"
+hash = "bfc7b8f68ad3acc64cebfe4de41d7662640565244340811351eb07fe848dc612"
+metafile = true
+
+[[files]]
+file = "mods/wynnextras-0.19.0.pw.toml"
+hash = "a2ecde42f7834b6e599534cdecd1a5d6c4062875a757824a3b89c01a73fa9ce7"
+metafile = true
+
+[[files]]
+file = "mods/wynnmod-2.4.1.pw.toml"
+hash = "693027254b31baaf97a35523f3acf3321905485378e3334c43849fc90f230b67"
+metafile = true
+
+[[files]]
+file = "mods/wynntils-4.2.16-fabric+MC-1.21.11.pw.toml"
+hash = "4b5d64e5286c3b0b017b95aa17c899512e8b60bdb8e559e4cd7cd7bfe732a726"
+metafile = true
+
+[[files]]
+file = "mods/wynnventory-2.2.5-fabric-1.21.11.pw.toml"
+hash = "7736054a5a429e8c752dec799f0a34267e90545a7af7b7d5628dcf1b4ea91028"
+metafile = true

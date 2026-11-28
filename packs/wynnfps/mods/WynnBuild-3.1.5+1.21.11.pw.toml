@@ -1,0 +1,8 @@
+name = "WynnBuild-3.1.5+1.21.11"
+filename = "WynnBuild-3.1.5+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1RCjAAcr/versions/fbTf2Mtu/WynnBuild-3.1.5%2B1.21.11.jar"
+hash-format = "sha1"
+hash = "e808a2e399a2c301d0b8284340e9b90a658f9aa8"

@@ -1,0 +1,12 @@
+name = "wynnfps"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "55f39ef0cbf857fc24a06043aa733ce375ffe1f174d1a50892e598ffd76703a1"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.11"

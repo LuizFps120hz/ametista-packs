@@ -1,0 +1,8 @@
+name = "modernfix-5.26.3-build.2"
+filename = "modernfix-5.26.3-build.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/QrRIY2rV/modernfix-5.26.3-build.2.jar"
+hash-format = "sha1"
+hash = "5a51d1a9768bbf9943e6eef83abf43d2b82baa30"

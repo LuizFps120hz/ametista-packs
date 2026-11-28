@@ -1,0 +1,8 @@
+name = "wynntils-4.2.16-fabric+MC-1.21.11"
+filename = "wynntils-4.2.16-fabric+MC-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dU5Gb9Ab/versions/YPpgpMI5/wynntils-4.2.17-fabric%2BMC-1.21.11.jar"
+hash-format = "sha1"
+hash = "f3e277a7f4606d3f583f153a307d05c13d6512be"

@@ -1,0 +1,8 @@
+name = "Too Many Entities 1.21.9 Fabric v1.2.4"
+filename = "Too Many Entities 1.21.9 Fabric v1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BvnRxzIF/versions/A9cO8mdZ/Too%20Many%20Entities%201.21.9%20Fabric%20v1.2.4.jar"
+hash-format = "sha1"
+hash = "4c24632bc54ceae8d361013c11f43c0f7a80b65a"

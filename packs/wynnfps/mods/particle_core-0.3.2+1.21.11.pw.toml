@@ -1,0 +1,8 @@
+name = "particle_core-0.3.2+1.21.11"
+filename = "particle_core-0.3.2+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RSeLon5O/versions/kIlv5noY/particle_core-0.3.2%2B1.21.11.jar"
+hash-format = "sha1"
+hash = "9d5b466bd0eabcf49564c760b9e88d781cbe0feb"

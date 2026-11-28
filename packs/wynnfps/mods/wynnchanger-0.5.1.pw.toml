@@ -1,0 +1,8 @@
+name = "wynnchanger-0.5.1"
+filename = "wynnchanger-0.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JrKgtPxD/versions/zPNv86TP/wynnchanger-0.5.1.jar"
+hash-format = "sha1"
+hash = "90f13102f7d737db76c7e0b30fd8e7acd9374cf2"

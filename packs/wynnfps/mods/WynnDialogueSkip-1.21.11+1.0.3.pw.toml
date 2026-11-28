@@ -1,0 +1,8 @@
+name = "WynnDialogueSkip-1.21.11+1.0.3"
+filename = "WynnDialogueSkip-1.21.11+1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uLXSu7GY/versions/gnz3SZQT/WynnDialogueSkip-1.21.11%2B1.0.3.jar"
+hash-format = "sha1"
+hash = "e32f0fa2b53678bb963388f7a416175ac4772106"

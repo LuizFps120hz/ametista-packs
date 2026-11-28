@@ -1,0 +1,8 @@
+name = "wynnmod-2.4.1"
+filename = "wynnmod-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5HxdoOjv/versions/qUmk8BIp/wynnmod-2.4.1.jar"
+hash-format = "sha1"
+hash = "b7e372ee6a8318ac3a71951afb53020faa71fa07"
